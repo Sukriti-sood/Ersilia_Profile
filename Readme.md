@@ -51,6 +51,6 @@ EOSI is a developing organization that requires contributions from all stages of
 
 As a developer you can use Github issues and discussions on the respective projects to report bugs, request features, and discuss changes. We recommend using issues to connect with maintainers, coaches and ambassadors.
 
-You can also contact us through [Slack](https://join.slack.com/t/outreachyersilia/shared_invite/zt-16iu1wckw-7KCgMGlIeRBBrDgyXkENeg), [Twitter](https://twitter.com/ersiliaio), [Linkedin](https://www.linkedin.com/company/ersiliaio/) or [Mail](hello@ersilia.io).
+You can also contact us through [Slack](https://join.slack.com/t/outreachyersilia/shared_invite/zt-16iu1wckw-7KCgMGlIeRBBrDgyXkENeg), or [Mail](hello@ersilia.io).
 
 You can support us by via [Open Collective](https://github.com/opencollective.com/ersilia).
