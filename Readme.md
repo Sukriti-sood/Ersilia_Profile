@@ -26,7 +26,7 @@ We support researchers in low-resource settings by using machine learning and da
 
 ## Contributing to the ecosystem
 
-We aim to provide computational tools that simplify and speed up day-to-day research. Learn more about our ecosystem through oure projects:
+We aim to provide computational tools that simplify and speed up day-to-day research. Learn more about our ecosystem through our projects:
 
 - [Ersilia Model Hub](https://ersilia.gitbook.io/ersilia-book/): The Ersilia Model Hub is the main project of the Ersilia Open Source Initiative. It is an open-source repository of AI/ML models for global health and neglected diseases.
 - [ZairaChem](https://github.com/ersilia-os/zaira-chem): Automated QSAR based on multiple small molecule descriptors. Ersilia's first library focuses on delivering out-of-the-box machine learning solutions for biomedical problems.
@@ -51,6 +51,6 @@ EOSI is a developing organization that requires contributions from all stages of
 
 As a developer you can use Github issues and discussions on the respective projects to report bugs, request features, and discuss changes. We recommend using issues to connect with maintainers, coaches and ambassadors.
 
-You can contact us through [Slack](https://join.slack.com/t/outreachyersilia/shared_invite/zt-16iu1wckw-7KCgMGlIeRBBrDgyXkENeg), [Twitter](https://twitter.com/ersiliaio), [Linkedin](https://www.linkedin.com/company/ersiliaio/) or [Mail](hello@ersilia.io).
+You can also contact us through [Slack](https://join.slack.com/t/outreachyersilia/shared_invite/zt-16iu1wckw-7KCgMGlIeRBBrDgyXkENeg), [Twitter](https://twitter.com/ersiliaio), [Linkedin](https://www.linkedin.com/company/ersiliaio/) or [Mail](hello@ersilia.io).
 
 You can support us by via [Open Collective](https://github.com/opencollective.com/ersilia).
