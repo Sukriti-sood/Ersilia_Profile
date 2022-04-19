@@ -1,6 +1,6 @@
 # Welcome to Ersilia 👋
 
-![ersilia-banner](../ersilia_profile/Ersilia_Plum.png)
+![ersilia-banner](https://github.com/Sukriti-sood/Ersilia_Profile/blob/main/Ersilia_Plum.png)
 
 <p align="center"> 
 
