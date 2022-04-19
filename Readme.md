@@ -3,14 +3,12 @@
 ![ersilia-banner](https://github.com/Sukriti-sood/Ersilia_Profile/blob/main/Ersilia_Plum.png)
 
 <p align="center"> 
-
 <a href="https://join.slack.com/t/outreachyersilia/shared_invite/zt-16iu1wckw-7KCgMGlIeRBBrDgyXkENeg" alt="slack"><img src="https://img.shields.io/badge/slack-@ersilia--slack-yellow.svg" alt="slack"></img></a>
 <a href="https://twitter.com/ersiliaio" alt="twitter"><img src="https://img.shields.io/badge/twitter-@ersilia--twitter-9cf.svg" alt="twitter"></img></a>
 <a href="https://www.linkedin.com/company/ersiliaio/" alt="Linkedin"><img src="https://img.shields.io/badge/linkedin-@ersilia--LinkedIn-lightgray.svg" alt="Linkedin"></img></a>
 <a href="https://www.youtube.com/channel/UCeioZf4Qj4hWi3O5Ta2k-xQ" alt="youtube"><img src="https://img.shields.io/badge/youtube-@mojaglobal--youtube-red.svg" alt="youtube"></img></a>
-
 </p>
-
+<br>
 The Ersilia Open Source Initiative (EOSI) aims to democratize access to machine learning tools so as to strengthen research capacity against infectious and neglected diseases.
 
 ## About us
